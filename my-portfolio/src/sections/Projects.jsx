@@ -50,7 +50,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="scroll-mt-20 py-16">
+    <section id="projects" className="scroll-mt-20 py-16 px-4">
       <h2 className="text-3xl md:text-4xl font-extrabold">
         My <span className="text-secondary">Projects</span>
       </h2>
