@@ -6,7 +6,7 @@ const About = () => {
   return (
     <section id="about" className="scroll-mt-20 py-16 min-h-screen ">
        
-      <div className="flex flex-col-reverse md:flex-row items-center mt-20 gap-10 py-10">
+      <div className="flex flex-col-reverse md:flex-row items-center gap-10 py-10">
      {/* left Section */}
       <div className="flex flex-1 md:px-2 flex-col">
          <div className="mt-8 max-w-3xl mx-auto space-y-4 md:text-left opacity-90">
