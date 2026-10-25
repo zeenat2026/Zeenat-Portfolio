@@ -4,7 +4,7 @@ const About = () => {
 
   
   return (
-    <section id="about" className="scroll-mt-20 py-16 min-h-screen ">
+    <section id="about" className="scroll-mt-20 py-16">
        
       <div className="flex flex-col-reverse md:flex-row items-center gap-10 py-10">
      {/* left Section */}
