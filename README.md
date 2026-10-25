@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Zeenat Shafqaat**, a self-taught MERN stack developer. It showcases my skills and projects I built from scratch, including full stack projects with authentication and databases.
 
-**Live site:** [YOUR_VERCEL_LINK_HERE](YOUR_VERCEL_LINK_HERE)
+**Live site:** [VERCEL_LINK](https://zeenat-portfolio-zeta.vercel.app/)
 
 ## Screenshots
 
@@ -42,7 +42,7 @@ Personal portfolio website of **Zeenat Shafqaat**, a self-taught MERN stack deve
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/zeenat2026/YOUR_REPO_NAME.git
+git clone https://github.com/zeenat2026/Zeenat-Portfolio.git
 
 # 2. Go into the project folder
 cd YOUR_REPO_NAME
@@ -65,7 +65,7 @@ npm run preview
 
 ## Contact
 
-- GitHub: [zeenat2026](https://github.com/zeenat2026)
+- GitHub: [zeenat2026](https://github.com/zeenat2026/Zeenat-Portfolio)
 - LinkedIn: [Zeenat-Shafqaat](https://www.linkedin.com/in/zeenat-shafqaat/)
 
 ---
