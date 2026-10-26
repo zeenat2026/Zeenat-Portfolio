@@ -35,7 +35,7 @@ const About = () => {
         {/* Right Section */}
         <div className="flex flex-1 justify-center">
           <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-secondary overflow-hidden grid place-content-center">
-            <span className="text-6xl md:text-7xl font-extrabold text-secondary">ZS</span>
+            <span className="text-5xl sm:text-6xl md:text-7xl font-black text-secondary tracking-wider selection:bg-transparent">ZS</span>
           </div>
         </div>
       </div>
