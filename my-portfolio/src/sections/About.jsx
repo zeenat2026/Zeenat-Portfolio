@@ -7,14 +7,14 @@ const About = () => {
       <div className="flex flex-col-reverse md:flex-row items-center gap-10 w-full">
         {/* Left Section */}
         <div className="flex flex-1 md:px-2 flex-col">
-          <div className="mt-8 max-w-3xl mx-auto space-y-4 md:text-left opacity-90">
+          <div className="mt-4 max-w-3xl mx-auto space-y-4 md:text-left opacity-90 flex flex-col items-center md:items-start">
             <h2 className="text-3xl md:text-4xl font-extrabold ">
               About <span className="text-secondary">Me</span>
             </h2>
             <h2 className="text-2xl font-bold">
               I'm a <span className="text-secondary">Mern Stack Developer</span>
             </h2>
-            <p>
+            <p className="text-center md:text-left">
               Hi, I’m Zeenat Shafqaat, a self-taught MERN stack developer from Yazman, 
               Bahawalpur, Pakistan. My background is in Zoology, but I taught myself 
               web development by building real projects, including a full-stack e-commerce 
