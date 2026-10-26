@@ -9,13 +9,11 @@
   --color-base-200: #f5f5f5 ;
   --color-base-300: #e5e5e5;
   --color-base-content: #1f2937;
-   --color-primary: #1f2937;
+  --color-primary: #1f2937;
   --color-primary-content: #ffffff;
   --color-secondary: #d97706;
---color-secondary-content:#1f2937;
+  --color-secondary-content:#1f2937;
 }
-
-
 
 @plugin "daisyui/theme" {
   name : 'myDark';
@@ -24,12 +22,14 @@
   --color-base-200: #1f1d0c ;
   --color-base-300: #e5e5e5;
   --color-base-content: #d8d2d2;
-   --color-primary: #04263b;
+  --color-primary: #04263b;
   --color-primary-content: #9b9b9b;
   --color-secondary: #fbbf24;
---color-secondary-content: #031c2b;
+  --color-secondary-content: #031c2b;
 }
 
 html {
   scroll-behavior: smooth;
+  /* Automatically offsets ALL anchor scrolls by  64px navbar height */
+  scroll-padding-top: 4rem; 
 }
