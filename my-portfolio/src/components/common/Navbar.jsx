@@ -108,7 +108,7 @@ const Navbar = () => {
       {/* Mobile Menu Dropdown Panel */}
       {isOpen && (
         <div className="lg:hidden bg-primary border-t border-base-content/10 px-6 py-4 absolute left-0 right-0 top-16 shadow-lg z-50">
-          <ul className="menu menu-vertical gap-2 p-0">
+          <ul className="menu menu-vertical  gap-2 p-0">
             {pages.map((page) => (
               <li key={page.id}>
                 <a 
